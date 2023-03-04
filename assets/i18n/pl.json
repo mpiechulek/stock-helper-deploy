@@ -1,0 +1,171 @@
+{
+    "home": {
+        "navBarHome": "Główna",
+        "navBarTrade": "Transakcje",
+        "navBarCalculator": "Kalkulator",
+        "navBarCurrency": "Waluty",
+        "navBarStatistics": "Statystyki",
+        "navBarCalendar": "Kalendarz",
+
+        "sideNavHeaderMenu": "Menu:",
+        "sideNavHeaderSettings": "Ustawienia:",
+        "sideNavAdvancedSettings": "Zaawansowane",       
+        "sideNavExportBoardButton": "Eksportuj tablicę",
+        "sideNavExportTransactionsButton": "Eksportuj transakcje",
+        "sideNavDeleteBoardButton": "Usuń tablicę",
+        "sideNavDeleteTransactionsButton": "Usuń transakcje",
+        "sideNavDeleteTransactionsDialogText": "Czy na pewno chcesz usunąć dane tablicy z pamięci lokalnej?",        
+        "sideNavDeleteBoardDialogText": "Czy na pewno chcesz usunąć dane transakcji z pamięci lokalnej?",      
+
+        "gridComponentOneHeader": "Kapitał",
+        "gridComponentTwoHeader": "Strategia",
+        "gridComponentThreeHeader": "Wiedza",
+        "gridComponentTwoText": "Największym ryzykiem jest niepodejmowanie żadnego ryzyka. W świecie, który zmienia się naprawdę szybko, jedyną strategią, która gwarantuje niepowodzenie, jest brak ryzyka .”",
+        "gridComponentThreeText": "“Możemy mieć całą wiedzę świata, ale to nic nie znaczy bez mądrości, by wiedzieć, co z nią zrobić.”",
+        "gridComponentTwoAuthor":"- Mark Zuckerberg",
+        "gridComponentThreeAuthor":"- Marie Osmond",
+
+        "dayMonday": "Poniedziałek",
+        "dayTuesday": "Wtorek",
+        "dayWednesday": "Środa",
+        "dayThursday": "Czwartek",
+        "dayFriday": "Piątek",
+        "daySaturday": "Sobota",
+        "daySunday": "Niedziela",
+
+        "dialogDummyDataHeader": "Witaj w Stock Helper",
+        "dialogDummyDataText": "Twoja tablica handlowa i sekcje statystyk są puste. Czy chcesz wstawić fałszywe dane, aby lepiej przejrzeć aplikację? To okno pojawiło się tylko raz. ",
+        "dialogCheckboxInfo": "Nie wyświetlaj więcej tej wiadomości",
+        "dialogConfirmButtonText": "Tak",
+        "dialogDeclineButtonText": "Nie"
+    },
+    "trade": {
+
+        "tradeInfoTextOne": "Tablica jest pusta",
+        "tradeInfoTextTwo": "Proszę dodaj spółkę",
+
+        "addButtonText": "Dodaj",
+        "confirmButtonText": "Tak",
+        "declineButtonText": "Nie",
+        "saveButtonText": "Zapisz", 
+        "findButtonText": "Znajdź", 
+        "clearButtonText": "Wyczyść",
+        "sellButtonText": "Sprzedaj",
+        
+        "entireDialogFormHeaderEdit": "Edytuj spółkę",
+        "entireDialogFormHeaderAdd": "Dodaj spółkę",
+        "entireDialogFormName": "* Wprowadź nazwę spółki",
+        "entireDialogFormQuantity": "* Ilość udziałów",
+        "entireDialogFormBuyPrice": "* Cena kupna",
+        "entireDialogFormTax": "Stopa podatkowa %",
+        "entireDialogFormCommission": "Prowizja maklerska %",
+        "entireDialogFormMinCommission": "Min. prowizja",
+        "entireDialogFormOfferNumber": "Ilość ofert",
+        "entireDialogFormPercentageStep": "Krok zmiany",
+
+        "entireDialogFormErrorMessageName": "Nazwa spółki jest wymagana",
+        "entireDialogFormErrorMessageQuantity": "Liczba akcji jest wymagana",
+        "entireDialogFormErrorMessageBuyPrice": "Cena kupna jest wymagana",
+
+        "tileHeaderBuyPrice": "Cena kupna",
+        "tileHeaderBuyValue": "Wartość kupna",
+        "tileHeaderQuantity": "Ilość",
+        "tileHeaderCurrentPrice": "Cena akt.",
+        "tileHeaderCurrentValue": "Wartość akt.",
+        "tileHeaderProfitBeforeTax": "Zysk brutto",
+
+        "sellConfirmDialogHeader": "Sprzedaj akcje",
+        "sellConfirmDialogText": "Czy na pewno chcesz sprzedać swoje akcje?",
+        "deleteConfirmDialogHeader": "Usuń spółkę",
+        "deleteConfirmDialogText": "Czy na pewno chcesz usunąć spółkę?"       
+    },
+    "calculator": {  
+        "calculatorFormHeader": "Dodaj dane walorów do obliczeń", 
+        "calculatorFormBuyPrice": "* Cena kupna", 
+        "calculatorFormQuantity": "* Ilość udziałów", 
+        "calculatorFormSellPrice": "* Cena sprzedaży", 
+        "calculatorFormTaxRate": "* Stopa podatkowa %", 
+        "calculatorFormCommission": "* Prowizja maklerska %", 
+        "calculatorFormMinCommission": "* Min. prowizja",
+
+        "calculatorFormButtonClear": "Wyczyść", 
+        "calculatorFormButtonCalculate": "Licz",
+
+        "calculatorResultResult": "Wynik",
+
+        "calculatorResultNetBuyValue": "Wartość zakupu netto",
+        "calculatorResultNetSellValue": "Wartośc sprzedaży netto",
+        "calculatorResultResultBuyCommission": "Prowizja kupna",
+        "calculatorResultSellCommission": "Prowizja sprzedaży",
+        "calculatorResultGrossBuy": "Wartość zakupu brutto",
+        "calculatorResultGrossSell": "Wartość sprzedaży brutto",     
+        "calculatorResultProfitBefore": "Zysk brutto",
+        "calculatorResultProfitAfter": "Zysk netto",
+        "calculatorResultFormWarning_1": "Wartość liczbowa jest wymagana",
+        "calculatorResultFormWarning_2": "Musi być liczbą dodatnią",
+        "calculatorResultFormWarning_3": "Musi być dodatnią liczbą całkowitą"
+    },
+    "currency" : {
+        "cryptoCurrencyHeader": "Rzeczywiste 30s. notowania crypto",
+        "foreignCurrencyHeader": "Kursy walut",
+        "currencyCalculatorHeader":"Kalkulator kursu walut",
+        "currencyCalculatorForm_1": "Waluta 1",
+        "currencyCalculatorForm_2": "Waluta 2",
+        "currencyCalculatorFormQuantity": "Ilość",
+        "currencyCalculatorFormResult": "Wynik"
+    },
+    "statistics" : {
+        "statisticsStepperChart": "Wykres",
+        "statisticsStepperTable": "Tabela",
+        "statisticsStepperStatistics": "Statystyki",
+        "statisticsLinearChartHeader": "Wykres liniowy wartości zysku/strata brutto",
+        "statisticsLinearChartY": "Saldo",
+        "statisticsLinearChartX": "Data",
+
+        "statisticsTableName": "Nazwa",
+        "statisticsTableQuantity": "Ilość",
+        "statisticsTableBuyPrice": "Cena zakupu",
+        "statisticsTableSellPrice": "Cena sprzedaży",
+        "statisticsTableProfitBeforeTax": "Zysk brutto",
+        "statisticsTableProfitAfterTax": "Zysk netto",
+        "statisticsTableDate": "Data",
+        "statisticsTableDelete": "Usuń",
+
+        "statisticsStatisticsProfitTransactions": "Transakcje zyskowne",
+        "statisticsStatisticsProfits": "Zysk",
+        "statisticsStatisticsLosses": "Strata"    
+      
+    },
+    "snackBar": {
+
+        "snackBarSuccessTradeBoardAdd": "Stworzono nową pozycje",
+        "snackBarFailTradeBoardAdd": "Nie udało się utworzyć pozycji",
+
+        "snackBarSuccessTradeBoardSave": "Pomyślnie zapisano zmiany",
+        "snackBarFailTradeBoardSave": "Nie udało się zapisać zmian",
+
+        "snackBarSuccessTradeBoardSell": "Pomyślnie sprzedano pozycje",
+        "snackBarFailTradeBoardSell": "Nie udało się sprzedać pozycji",
+
+        "snackBarSuccessTradeBoardEdit": "Pomyślnie dokonano edycji",
+        "snackBarFailTradeBoardEdit": "Nie udało się dokonać edycji",
+        
+        "snackBarSuccessTradeBoardDelete": "Pomyślnie usunięto pozycję",
+        "snackBarFailTradeBoardDelete": "Nie udało się usunąć pozycji",
+
+        "snackBarSuccessTransactionDelete": "Successfully deleted transaction",
+        "snackBarFailTransactionDelete": "Failed to  deleted transaction",        
+
+        "snackBarFailFetchCurrency": "Nie udało sie pobrać danych walut",
+        "snackBarFailFetchCryptoBtc": "Nie udało sie pobrać danych BTC",
+        "snackBarFailFetchCryptoEthereum": "Nie udało sie pobrać danych ETH",
+
+        "snackBarSuccessDeleteTransactionsData": "Pomyślnie usunięto wszystkie dane transakcji",
+        "snackBarFailDeleteTransactionsData": "Nie udało sie usunąc danych transakcji",
+        
+        "snackBarSuccessDeleteTradeBoardData": "Pomyślnie usunięto wszystkie dane tablicy",
+        "snackBarFailDeleteTradeBoardData": "Nie udało sie usunąc danych tablicy"       
+
+    }
+
+}

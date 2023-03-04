@@ -1,0 +1,173 @@
+{
+    "home": {
+        "navBarHome": "Home",
+        "navBarTrade": "Trade",
+        "navBarCalculator": "Calculator",
+        "navBarCurrency": "Currency",
+        "navBarStatistics": "Statistics",
+        "navBarCalendar": "Calendar",
+
+        "sideNavHeaderMenu": "Menu:",
+        "sideNavHeaderSettings": "Settings:",
+        "sideNavAdvancedSettings": "Advanced",
+        "sideNavExportBoardButton": "Export board data",
+        "sideNavExportTransactionsButton": "Export transactions",
+        "sideNavDeleteBoardButton": "Delete trade board",
+        "sideNavDeleteTransactionsButton": "Delete transactions",
+        "sideNavDeleteTransactionsDialogText": "Are you sure, you want to delete transactions data from local storage?",        
+        "sideNavDeleteBoardDialogText": "Are you sure, you want to delete trade board data from local storage?",        
+        
+        "gridComponentOneHeader": "Money",
+        "gridComponentTwoHeader": "Strategy",
+        "gridComponentThreeHeader": "Knowledge",
+        "gridComponentTwoText": "“The biggest risk is not taking any risk. in a world that’s changing really quickly, the only strategy that is guaranteed to fail is not taking risks.”",
+        "gridComponentThreeText": "“We can have all the knowledge in the world, but it means nothing without the wisdom to know what to do with it.”",
+        "gridComponentTwoAuthor":"- Mark Zuckerberg",
+        "gridComponentThreeAuthor":"- Marie Osmond",
+
+        "dayMonday": "Monday",
+        "dayTuesday": "Tuesday",
+        "dayWednesday": "Wednesday",
+        "dayThursday": "Thursday",
+        "dayFriday": "Friday",
+        "daySaturday": "Saturday",
+        "daySunday": "Sunday",
+
+        "dialogDummyDataHeader": "Welcome to Stock Helper",
+        "dialogDummyDataText": "Your trading board and statistics sections are empty. Do you want to insert some dummy data, to better review the app? This window only appearers once.",
+        "dialogCheckboxInfo": "Don not show this message again",
+        "dialogConfirmButtonText": "Yes",
+        "dialogDeclineButtonText": "No"
+    },
+    "trade": {    
+        
+        "tradeInfoTextOne": "The trading board is empty",
+        "tradeInfoTextTwo": "Please add a stock",
+
+        "addButtonText": "Add",
+        "confirmButtonText": "Yes",
+        "declineButtonText": "No",
+        "saveButtonText": "Save", 
+        "findButtonText": "Find", 
+        "clearButtonText": "Clear",     
+        "sellButtonText": "Sell",
+
+        "entireDialogFormHeaderEdit": "Edit stock",
+        "entireDialogFormHeaderAdd": "Add stock",
+        "entireDialogFormName": "* Enter company name",
+        "entireDialogFormQuantity": "* Number of shares",
+        "entireDialogFormBuyPrice": "* Buy price",
+        "entireDialogFormTax": "Tax rate %",
+        "entireDialogFormCommission": "Brokers commission %",
+        "entireDialogFormMinCommission": "Min. commission",
+        "entireDialogFormOfferNumber": "Number of offers",
+        "entireDialogFormPercentageStep": "Percentage step",
+
+        "entireDialogFormErrorMessageName": "Company name is required.",
+        "entireDialogFormErrorMessageQuantity": "Number of shares is required.",
+        "entireDialogFormErrorMessageBuyPrice": "  Buy price is required",
+
+        "tileHeaderBuyPrice": "Buy price",
+        "tileHeaderBuyValue": "Buy value",
+        "tileHeaderQuantity": "Quantity",
+        "tileHeaderCurrentPrice": "Cur. price",
+        "tileHeaderCurrentValue": "Cur. value",
+        "tileHeaderProfitBeforeTax": "Bef. tax",               
+        
+        "sellConfirmDialogHeader": "Sell stock",
+        "sellConfirmDialogText": "Are you sure, you want to sell your stock shares?",
+        "deleteConfirmDialogHeader": "Delete stock",
+        "deleteConfirmDialogText": "Are you sure, you want to delete this stock?"       
+    },
+    "calculator": {  
+        "calculatorFormHeader": "Add stock data for calculations", 
+        "calculatorFormBuyPrice": "* BuyPrice", 
+        "calculatorFormQuantity": "* Number of shares", 
+        "calculatorFormSellPrice": "* Sell price", 
+        "calculatorFormTaxRate": "* Tax rate %", 
+        "calculatorFormCommission": "* Commission %", 
+        "calculatorFormMinCommission": "* Min. Commission",
+
+        "calculatorFormButtonClear": "Clear", 
+        "calculatorFormButtonCalculate": "Calculate",
+
+        "calculatorResultResult": "Result",
+
+        "calculatorResultNetBuyValue": "Net buy value",
+        "calculatorResultNetSellValue": "Net sell value",
+        "calculatorResultResultBuyCommission": "Buy commission",
+        "calculatorResultSellCommission": "Sell commission",
+        "calculatorResultGrossBuy": "Gross buy value",
+        "calculatorResultGrossSell": "Gross sell value",     
+        "calculatorResultProfitBefore": "Profit before tax",
+        "calculatorResultProfitAfter": "Profit after tax",
+        "calculatorResultFormWarning_1": "Number value is required",
+        "calculatorResultFormWarning_2": "Must by a positive number",
+        "calculatorResultFormWarning_3": "Must by a positive integer"        
+
+    },
+    "currency" : {
+        "cryptoCurrencyHeader": "Live 30s. crypto currency quotes",
+        "foreignCurrencyHeader": "Currency quotes",
+        "currencyCalculatorHeader":"Currency exchange calculator",
+        "currencyCalculatorForm_1": "Currency 1",
+        "currencyCalculatorForm_2": "Currency 2",
+        "currencyCalculatorFormQuantity": "Quantity",
+        "currencyCalculatorFormResult": "Result"
+    },
+
+    "statistics" : {
+        "statisticsStepperChart": "Trade Chart",
+        "statisticsStepperTable": "Trades table",
+        "statisticsStepperStatistics": "Statistics",
+        "statisticsLinearChartHeader": "Linear chart of profit/lose gross value",
+        "statisticsLinearChartY": "Ballance",
+        "statisticsLinearChartX": "Data",
+
+        "statisticsTableName": "Name",
+        "statisticsTableQuantity": "Quantity",
+        "statisticsTableBuyPrice": "Buy Price",
+        "statisticsTableSellPrice": "Sell Price",
+        "statisticsTableProfitBeforeTax": "Profit bef. tax",
+        "statisticsTableProfitAfterTax": "Profit aft. tax",
+        "statisticsTableDate": "Date",
+        "statisticsTableDelete": "Delete",
+
+        "statisticsStatisticsProfitTransactions": "Profit transactions",
+        "statisticsStatisticsProfits": "Profits",
+        "statisticsStatisticsLosses": "Losses"       
+      
+    },
+    "snackBar": {
+
+        "snackBarSuccessTradeBoardAdd": "Successfully created a new position",
+        "snackBarFailTradeBoardAdd": "Failed to a create position",
+
+        "snackBarSuccessTradeBoardSave": "Successfully saved position",
+        "snackBarFailTradeBoardSave": "Failed to saved position",
+
+        "snackBarSuccessTradeBoardSell": "Successfully sold position",
+        "snackBarFailTradeBoardSell": "Failed to sell position",
+
+        "snackBarSuccessTradeBoardEdit": "Successfully edited position",
+        "snackBarFailTradeBoardEdit": "Fail to edit position",
+        
+        "snackBarSuccessTradeBoardDelete": "Successfully deleted position",
+        "snackBarFailTradeBoardDelete": "Fail to delete position",
+
+        "snackBarSuccessTransactionDelete": "Successfully deleted transaction",
+        "snackBarFailTransactionDelete": "Failed to  deleted transaction",        
+
+        "snackBarFailFetchCurrency": "Fail to GET currency data",
+        "snackBarFailFetchCryptoBtc": "Fail to GET BTC data",
+        "snackBarFailFetchCryptoEthereum": "Fail to GET Ethereum data",
+
+        "snackBarSuccessDeleteTransactionsData": "Successfully deleted all transactions data",
+        "snackBarFailDeleteTransactionsData": "Fail to deleted transactions data",
+        
+        "snackBarSuccessDeleteTradeBoardData": "Successfully deleted all trade board data",
+        "snackBarFailDeleteTradeBoardData": "Fail to deleted trade board data"       
+
+    }
+}
+
